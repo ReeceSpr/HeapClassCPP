@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment_7"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_7">
+				<Option output="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Assignment_7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Reece/Documents/Assignment 7/."/>
+					<Add directory="C:/Users/Reece/Documents/Assignment 7/.idea"/>
+					<Add directory="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_7"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_7/fast">
+				<Option output="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Assignment_7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Reece/Documents/Assignment 7/."/>
+					<Add directory="C:/Users/Reece/Documents/Assignment 7/.idea"/>
+					<Add directory="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_7/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/.idea/.name">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/.idea/Assignment 7.iml">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/.idea/encodings.xml">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/.idea/misc.xml">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/.idea/modules.xml">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/.idea/workspace.xml">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/CMakeLists.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Assignment_7">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Assignment_7.cbp">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/CMakeCache.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/Makefile">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/cmake_install.cmake">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/random_N_10.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/random_N_100.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/random_N_25000.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/random_N_5.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/reversed_N_10.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/reversed_N_100.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/reversed_N_25000.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/reversed_N_5.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/sorted_N_10.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/sorted_N_100.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/sorted_N_25000.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/cmake-build-debug/sorted_N_5.txt">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/main.cpp">
+			<Option target="Assignment_7"/>
+		</Unit>
+		<Unit filename="C:/Users/Reece/Documents/Assignment 7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
